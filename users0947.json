@@ -2,7 +2,9 @@
 	"results": [
 		{
 			"ID": "1",
-			"AVATAR": "",
+			"PICTURE": {
+				"AVATAR": ""
+			},
 			"NAME": {
 				"FIRST": "Hiệp",
 				"LAST": "Ngô Văn"
@@ -28,7 +30,9 @@
 		},
 		{
 			"ID": "2",
-			"AVATAR": "",
+			"PICTURE": {
+				"AVATAR": ""
+			},
 			"NAME": {
 				"FIRST": "Linh",
 				"LAST": "Nguyễn Hoàng"
