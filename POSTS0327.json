@@ -1,26 +1,34 @@
 {
 	"results": [
 		{
-			"ID": "1",
 			"THUMBNAIL": "https://i3.ytimg.com/vi/OmoyTYCDnjg/maxresdefault.jpg",
 			"TITLE": "Một hành trình rực rỡ | L1TCT Funky Rap Version | Jack - J97",
 			"AUTHOR": {
 				"AVATAR": "https://i3.ytimg.com/vi/OmoyTYCDnjg/maxresdefault.jpg",
 				"NAME": "J97"
 			},
-			"VIEW": "12 Tr lượt xem",
-			"TIMEAGO": "1 tuần trước"
+			"VIEW": "12.452.526 lượt xem",
+			"TIMEAGO": "22 thg 6, 2020"
 		},
 		{
-			"ID": "2",
 			"THUMBNAIL": "https://i3.ytimg.com/vi/gY2zQIiLScM/maxresdefault.jpg",
 			"TITLE": "NHẠC TRẺ REMIX 2020 MỚI NHẤT HIỆN NAY - EDM Tik Tok Orinn Remix - lk nhạc trẻ remix gây nghiện 2020",
 			"AUTHOR": {
 				"AVATAR": "https://i3.ytimg.com/vi/gY2zQIiLScM/maxresdefault.jpg",
 				"NAME": "Orinn Remix"
 			},
-			"VIEW": "1,2 Tr lượt xem",
-			"TIMEAGO": "3 tuần trước"
+			"VIEW": "1.232.542 Tr lượt xem",
+			"TIMEAGO": "8 thg 6, 2020"
+		},
+		{
+			"THUMBNAIL": "https://i3.ytimg.com/vi/Xc9fLPLjIek/maxresdefault.jpg",
+			"TITLE": "EDM Tik Tok Htrol Remix lk nhac tre remix gây nghiện 2020",
+			"AUTHOR": {
+				"AVATAR": "https://i3.ytimg.com/vi/OmoyTYCDnjg/maxresdefault.jpg",
+				"NAME": "BD Media Music"
+			},
+			"VIEW": "3.963.912 lượt xem",
+			"TIMEAGO": "8 thg 1, 2020"
 		}
 	]
 }
