@@ -4,8 +4,8 @@
 			"ID": "1",
 			"AVT": "",
 			"NAME": {
-				"FIRST": "Hiệp",
-				"LAST": "Ngô Văn",
+				"FIRST": "Hiep",
+				"LAST": "Ngo Van",
 			},
 			"BIRTHDAY": "9-9-2000",
 			"GENDER": "nam"
@@ -15,7 +15,7 @@
 			"AVT": "",
 			"NAME": {
 				"FIRST": "Linh",
-				"LAST": "Nguyễn Hoàng",
+				"LAST": "Nguyen Hoang",
 			},
 			"BIRTHDAY": "12-9-2007",
 			"GENDER": "nam"
