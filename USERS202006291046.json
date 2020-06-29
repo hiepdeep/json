@@ -1,0 +1,144 @@
+{
+	"results": [
+		{
+			"PICTURE": {
+				"AVATAR": "https://randomuser.me/api/portraits/men/1.jpg"
+			},
+			"NAME": {
+				"FIRST": "Hòa",
+				"LAST": "Trần Minh"
+			},
+			"AGE": "20",
+			"BIRTHDAY": "20-5-2000",
+			"GENDER": "nam",
+			"LOCATION": {
+				"WARD": "Cẩm Văn",
+				"DISTRICT": "Cẩm Giàng",
+				"CITY": "Hải Dương",
+				"COUNTRY": "Việt Nam"
+			},
+			"TIMEZONE": {
+				"OFFSET": "UTC +7:00",
+				"DESCRIPTION": "Hà Nội, Việt Nam"
+			},
+			"PHONE": {
+				"CODE": "+84",
+				"NUMBER": "0123456789"
+			},
+			"EMAIL": "abcxyz@example.com",
+			"NAT": "VN"
+		},
+		{
+			"PICTURE": {
+				"AVATAR": "https://randomuser.me/api/portraits/men/33.jpg"
+			},
+			"NAME": {
+				"FIRST": "Nam",
+				"LAST": "Trần Minh"
+			},
+			"AGE": "23",
+			"GENDER": "nam",
+			"BIRTHDAY": "7-3-1997",
+			"LOCATION": {
+				"WARD": "Cẩm Văn",
+				"DISTRICT": "Cẩm Giàng",
+				"CITY": "Hải Dương",
+				"COUNTRY": "Việt Nam"
+			},
+			"TIMEZONE": {
+				"OFFSET": "UTC +7:00",
+				"DESCRIPTION": "Hà Nội, Việt Nam"
+			},
+			"PHONE": {
+				"CODE": "+84",
+				"NUMBER": "0123456789"
+			},
+			"EMAIL": "abcxyz@example.com",
+			"NAT": "VN"
+		},
+		{
+			"PICTURE": {
+				"AVATAR": "https://randomuser.me/api/portraits/men/32.jpg"
+			},
+			"NAME": {
+				"FIRST": "Phong",
+				"LAST": "Lê Đức"
+			},
+			"AGE": "19",
+			"GENDER": "nam",
+			"BIRTHDAY": "30-6-2001",
+			"LOCATION": {
+				"WARD": "Cẩm Văn",
+				"DISTRICT": "Cẩm Giàng",
+				"CITY": "Hải Dương",
+				"COUNTRY": "Việt Nam"
+			},
+			"TIMEZONE": {
+				"OFFSET": "UTC +7:00",
+				"DESCRIPTION": "Hà Nội, Việt Nam"
+			},
+			"PHONE": {
+				"CODE": "+84",
+				"NUMBER": "0123456789"
+			},
+			"EMAIL": "abcxyz@example.com",
+			"NAT": "VN"
+		},
+		{
+			"PICTURE": {
+				"AVATAR": "https://randomuser.me/api/portraits/men/17.jpg"
+			},
+			"NAME": {
+				"FIRST": "Hòa",
+				"LAST": "Trần Văn"
+			},
+			"AGE": "21",
+			"GENDER": "nam",
+			"BIRTHDAY": "2-12-1999",
+			"LOCATION": {
+				"WARD": "Cẩm Văn",
+				"DISTRICT": "Cẩm Giàng",
+				"CITY": "Hải Dương",
+				"COUNTRY": "Việt Nam"
+			},
+			"TIMEZONE": {
+				"OFFSET": "UTC +7:00",
+				"DESCRIPTION": "Hà Nội, Việt Nam"
+			},
+			"PHONE": {
+				"CODE": "+84",
+				"NUMBER": "0123456789"
+			},
+			"EMAIL": "abcxyz@example.com",
+			"NAT": "VN"
+		},
+		{
+			"PICTURE": {
+				"AVATAR": "https://randomuser.me/api/portraits/men/22.jpg"
+			},
+			"NAME": {
+				"FIRST": "Thái",
+				"LAST": "Lê Văn"
+			},
+			"AGE": "18",
+			"GENDER": "nam",
+			"BIRTHDAY": "27-11-2002",
+			"LOCATION": {
+				"WARD": "Cẩm Văn",
+				"DISTRICT": "Cẩm Giàng",
+				"CITY": "Hải Dương",
+				"COUNTRY": "Việt Nam"
+			},
+			"TIMEZONE": {
+				"OFFSET": "UTC +7:00",
+				"DESCRIPTION": "Hà Nội, Việt Nam"
+			},
+			"PHONE": {
+				"CODE": "+84",
+				"NUMBER": "0123456789"
+			},
+			"EMAIL": "abcxyz@example.com",
+			"NAT": "VN"
+		},
+	]
+}
