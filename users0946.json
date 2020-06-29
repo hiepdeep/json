@@ -16,6 +16,10 @@
 				"CITY": "Hải Dương",
 				"COUNTRY": "Việt Nam"
 			},
+			"TIMEZONE": {
+				"OFFSET": "UTC +7:00",
+				"DESCRIPTION": "Hà Nội, Việt Nam"
+			},
 			"PHONE": {
 				"CODE": "+84",
 				"NUMBER": "0123456789"
@@ -37,6 +41,10 @@
 				"DISTRICT": "Cẩm Giàng",
 				"CITY": "Hải Dương",
 				"COUNTRY": "Việt Nam"
+			},
+			"TIMEZONE": {
+				"OFFSET": "UTC +7:00",
+				"DESCRIPTION": "Hà Nội, Việt Nam"
 			},
 			"PHONE": {
 				"CODE": "+84",
