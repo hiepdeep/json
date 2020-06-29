@@ -10,6 +10,10 @@
 			"AGE": 20,
 			"BIRTHDAY": "9-9-2000",
 			"GENDER": "nam",
+			"LOCATION": {
+				"CITY": "Hải Dương",
+				"COUNTRY": "Việt Nam"
+			},
 			"EMAIL": "abcxyz@example.com"
 		},
 		{
@@ -21,6 +25,10 @@
 			},
 			"AGE": 13,
 			"BIRTHDAY": "12-9-2007",
+			"LOCATION": {
+				"CITY": "Hải Dương",
+				"COUNTRY": "Việt Nam"
+			},
 			"GENDER": "nam",
 			"EMAIL": "abcxyz@example.com"
 		}
