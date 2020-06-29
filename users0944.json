@@ -7,7 +7,7 @@
 				"FIRST": "Hiệp",
 				"LAST": "Ngô Văn"
 			},
-			"AGE": 20,
+			"AGE": "20",
 			"BIRTHDAY": "9-9-2000",
 			"GENDER": "nam",
 			"LOCATION": {
@@ -18,7 +18,7 @@
 			},
 			"PHONE": {
 				"CODE": "+84",
-				"NUMBER": 0123456789
+				"NUMBER": "0123456789"
 			},
 			"EMAIL": "abcxyz@example.com"
 		},
@@ -29,7 +29,7 @@
 				"FIRST": "Linh",
 				"LAST": "Nguyễn Hoàng"
 			},
-			"AGE": 13,
+			"AGE": "13",
 			"GENDER": "nam",
 			"BIRTHDAY": "12-9-2007",
 			"LOCATION": {
@@ -40,7 +40,7 @@
 			},
 			"PHONE": {
 				"CODE": "+84",
-				"NUMBER": 0123456789
+				"NUMBER": "0123456789"
 			},
 			"EMAIL": "abcxyz@example.com"
 		}
