@@ -4,25 +4,25 @@
 			"ID": "1",
 			"AVATAR": "",
 			"NAME": {
-				"FIRST": "Hiep",
-				"LAST": "Ngo Van"
+				"FIRST": "Hiệp",
+				"LAST": "Ngô Văn"
 			},
 			"AGE": 20,
 			"BIRTHDAY": "9-9-2000",
 			"GENDER": "nam",
-			"email": "abcxyz@example.com"
+			"EMAIL": "abcxyz@example.com"
 		},
 		{
 			"ID": "2",
 			"AVATAR": "",
 			"NAME": {
 				"FIRST": "Linh",
-				"LAST": "Nguyen Hoang"
+				"LAST": "Nguyễn Hoàng"
 			},
 			"AGE": 13,
 			"BIRTHDAY": "12-9-2007",
 			"GENDER": "nam",
-			"email": "abcxyz@example.com"
+			"EMAIL": "abcxyz@example.com"
 		}
 	]
 }
