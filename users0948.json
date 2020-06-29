@@ -1,7 +1,6 @@
 {
 	"results": [
 		{
-			"ID": "1",
 			"PICTURE": {
 				"AVATAR": ""
 			},
@@ -29,7 +28,6 @@
 			"EMAIL": "abcxyz@example.com"
 		},
 		{
-			"ID": "2",
 			"PICTURE": {
 				"AVATAR": ""
 			},
