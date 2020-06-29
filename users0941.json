@@ -11,6 +11,8 @@
 			"BIRTHDAY": "9-9-2000",
 			"GENDER": "nam",
 			"LOCATION": {
+				"WARD": "Cẩm Văn",
+				"DISTRICT": "Cẩm Giàng",
 				"CITY": "Hải Dương",
 				"COUNTRY": "Việt Nam"
 			},
@@ -26,6 +28,8 @@
 			"AGE": 13,
 			"BIRTHDAY": "12-9-2007",
 			"LOCATION": {
+				"WARD": "Cẩm Văn",
+				"DISTRICT": "Cẩm Giàng",
 				"CITY": "Hải Dương",
 				"COUNTRY": "Việt Nam"
 			},
