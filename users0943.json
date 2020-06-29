@@ -16,6 +16,10 @@
 				"CITY": "Hải Dương",
 				"COUNTRY": "Việt Nam"
 			},
+			"PHONE": {
+				"CODE": "+84",
+				"NUMBER": 0123456789
+			},
 			"EMAIL": "abcxyz@example.com"
 		},
 		{
@@ -26,6 +30,7 @@
 				"LAST": "Nguyễn Hoàng"
 			},
 			"AGE": 13,
+			"GENDER": "nam",
 			"BIRTHDAY": "12-9-2007",
 			"LOCATION": {
 				"WARD": "Cẩm Văn",
@@ -33,7 +38,10 @@
 				"CITY": "Hải Dương",
 				"COUNTRY": "Việt Nam"
 			},
-			"GENDER": "nam",
+			"PHONE": {
+				"CODE": "+84",
+				"NUMBER": 0123456789
+			},
 			"EMAIL": "abcxyz@example.com"
 		}
 	]
