@@ -1,0 +1,31 @@
+{
+	"results": [
+		{
+			"picture": {
+				"avatar": "",
+			},
+			"name": {
+				"first": "Hiệp",
+				"last": "Ngô Văn"
+			},
+			"age": 20,
+			"gender": "nam",
+			"birthday": "9-9-2000",
+			"location": {
+				"ward": "Cẩm Văn",
+				"district": "Cẩm Giàng",
+				"city": "Hải Dương",
+				"country": "Việt Nam"
+			},
+			"email": "abcxyz@example.com",
+			"phone": {
+				"code": "+84",
+				"number": 0123456789
+			},
+			"timezone": {
+				"offset": "UTC +7:00",
+				"description": "Hà Nội, Việt Nam"
+			}
+		}
+	]
+}
