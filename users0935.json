@@ -10,13 +10,7 @@
 			"AGE": 20,
 			"BIRTHDAY": "9-9-2000",
 			"GENDER": "nam",
-			"location": {
-				"ward": "Cam Van",
-				"district": "Cam Giang",
-				"city": "Hai Duong",
-				"country": "Viet Nam"
-			},
-			"email": "abcxyz@example.com",
+			"email": "abcxyz@example.com"
 		},
 		{
 			"ID": "2",
@@ -28,13 +22,7 @@
 			"AGE": 13,
 			"BIRTHDAY": "12-9-2007",
 			"GENDER": "nam",
-			"location": {
-				"ward": "Cam Van",
-				"district": "Cam Giang",
-				"city": "Hai Duong",
-				"country": "Viet Nam"
-			},
-			"email": "abcxyz@example.com",
+			"email": "abcxyz@example.com"
 		}
 	]
 }
